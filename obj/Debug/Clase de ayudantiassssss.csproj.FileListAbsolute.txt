@@ -1,0 +1,7 @@
+C:\Users\Charito Acosta\Desktop\Proyects\Clase de ayudantiassssss\Clase de ayudantiassssss\bin\Debug\Clase de ayudantiassssss.exe.config
+C:\Users\Charito Acosta\Desktop\Proyects\Clase de ayudantiassssss\Clase de ayudantiassssss\bin\Debug\Clase de ayudantiassssss.exe
+C:\Users\Charito Acosta\Desktop\Proyects\Clase de ayudantiassssss\Clase de ayudantiassssss\bin\Debug\Clase de ayudantiassssss.pdb
+C:\Users\Charito Acosta\Desktop\Proyects\Clase de ayudantiassssss\Clase de ayudantiassssss\obj\Debug\Clase de ayudantiassssss.csproj.AssemblyReference.cache
+C:\Users\Charito Acosta\Desktop\Proyects\Clase de ayudantiassssss\Clase de ayudantiassssss\obj\Debug\Clase de ayudantiassssss.csproj.CoreCompileInputs.cache
+C:\Users\Charito Acosta\Desktop\Proyects\Clase de ayudantiassssss\Clase de ayudantiassssss\obj\Debug\Clase de ayudantiassssss.exe
+C:\Users\Charito Acosta\Desktop\Proyects\Clase de ayudantiassssss\Clase de ayudantiassssss\obj\Debug\Clase de ayudantiassssss.pdb
